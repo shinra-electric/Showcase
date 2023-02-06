@@ -12,7 +12,7 @@
   <br />
 <p align="center">
   <a href="#" alt="Version">
-    <img src="https://img.shields.io/static/v1?label=Version&message=2.0.0&color=brightgreen" />
+    <img src="https://img.shields.io/static/v1?label=Version&message=1.0&color=brightgreen" />
   </a>    
   <a href="#" alt="Swift Version">
     <img src="https://img.shields.io/static/v1?label=Swift%20Version&message=5.0&color=brightgreen&logo=swift" />
