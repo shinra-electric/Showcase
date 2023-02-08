@@ -1,12 +1,12 @@
 
 
-## <p style="text" align="center">Portfolio</p>
+## <p style="text" align="center">Portfolio ![Version](https://img.shields.io/static/v1?label=Version&message=2.0&color=brightgreen)</p>
 
-<div style="text" align="center">
+<!-- <div style="text" align="center">
 
 ![Version](https://img.shields.io/static/v1?label=Version&message=2.0&color=brightgreen)
 
-</div>
+</div> -->
 
 This is a list of projects I have worked on. Some are full apps I created myself, some are just demonstrations of technologies or features I was working on, and others are tutorials that I have followed. 
 
