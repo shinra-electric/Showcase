@@ -1,8 +1,8 @@
 
 
-## <p style="text-align: center;">Portfolio</p>
+## <p style="text" align="center">Portfolio</p>
 
-<div style="text-align: center;">
+<div style="text" align="center">
 
 ![Version](https://img.shields.io/static/v1?label=Version&message=2.0&color=brightgreen)
 
