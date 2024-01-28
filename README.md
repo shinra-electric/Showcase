@@ -8,5 +8,6 @@ They are mostly zsh/bash scripts.
 
 <details>
   <summary>Scripts</summary>
+  
 - [RPCS3-Arm](https://github.com/shinra-electric/Arm-Build-Script-for-RPCS3)
 </details>
