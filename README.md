@@ -5,7 +5,7 @@ It's supposed to be private for now until I'm happy with the formatting.
 # iOS Apps
 
 <details>
-  <summary>Scripts</summary>
+  <summary>iOS Apps</summary>
   
 - [Sajeon Dictionary](https://github.com/shinra-electric/Sajeon)
 </details>
