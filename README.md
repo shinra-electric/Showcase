@@ -10,7 +10,7 @@ It's supposed to be private for now until I'm happy with the formatting.
 - [Sajeon Dictionary](https://github.com/shinra-electric/Sajeon)
 </details>
 
-## Build Scripts
+## Scripts
 I started writing scripts just to save time when compiling various projects.<br>
 They are mostly zsh/bash scripts.
 
@@ -18,4 +18,5 @@ They are mostly zsh/bash scripts.
   <summary>Scripts</summary>
   
 - [RPCS3-Arm](https://github.com/shinra-electric/Arm-Build-Script-for-RPCS3)
+- [Format Conversion Scripts](https://github.com/shinra-electric/Conversion-Scripts)
 </details>
