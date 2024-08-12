@@ -7,7 +7,8 @@ It's supposed to be private for now until I'm happy with the formatting.
 <details>
   <summary>iOS Apps</summary>
   
-- [Sajeon Dictionary](https://github.com/shinra-electric/Sajeon)
+- [Sajeon Dictionary](https://github.com/shinra-electric/Sajeon): A Korean->English dictionary
+- [searchOS](https://github.com/shinra-electric/searchOS): Provides information about all macOS releases
 </details>
 
 ## Scripts
