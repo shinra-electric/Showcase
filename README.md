@@ -21,3 +21,12 @@ They are mostly zsh/bash scripts.
 - [RPCS3-Arm](https://github.com/shinra-electric/Arm-Build-Script-for-RPCS3)
 - [Format Conversion Scripts](https://github.com/shinra-electric/Conversion-Scripts)
 </details>
+
+## Algorithms
+Various practice algorithms in Swift including HackerRank.
+
+<details>
+  <summary>Scripts</summary>
+  
+- [HackerRank](https://github.com/shinra-electric/HackerRank)
+</details>
