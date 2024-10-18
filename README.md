@@ -1,6 +1,7 @@
-# Portfolio
-This is a draft of an updated portfolio. Rather than containing a million things, it will just point to different repos. 
-It's supposed to be private for now until I'm happy with the formatting. 
+# Showcase
+This is a draft of a showcase to replace my old outdated portfolio repo. <br>
+Rather than containing everything in the repo itself, it will just point to different repos. <br>
+I haven't transferred everything yet, and I will be adding more things over time.
 
 # iOS Apps
 
