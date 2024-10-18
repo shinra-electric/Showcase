@@ -19,7 +19,7 @@ They are mostly zsh/bash scripts.
 <details>
   <summary>Scripts</summary>
   
-- [RPCS3-Arm](https://github.com/shinra-electric/Arm-Build-Script-for-RPCS3)
+- [Build scripts for macOS](https://github.com/shinra-electric/Build-scripts)
 - [Format Conversion Scripts](https://github.com/shinra-electric/Conversion-Scripts)
 </details>
 
