@@ -50,7 +50,7 @@ They are mostly zsh/bash scripts.
 Various practice algorithms in Swift including HackerRank.
 
 <details>
-  <summary>Scripts</summary>
+  <summary>Algorithms</summary>
   
 - [HackerRank](https://github.com/shinra-electric/HackerRank)
 </details>
