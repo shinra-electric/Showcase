@@ -15,7 +15,8 @@ I worked on the following iOS apps:
   - Lina: An app for teachers that provides fun, educational activities that they can enjoy with their students
   - TripTap: An app for travellers to plan trips to sites of interest, and to find other travellers to go with. Uses the [OpenTripMap API](https://dev.opentripmap.org/product)
   - IdeaBank: An app for brainstorming for app ideas
-  - Ask Barbara: An app for foreign students in Italy that helps them navigate the labyrinthian bureaucracy, and gives other useful local tips. 
+  - Ask Barbara: An app for foreign students in Italy that helps them navigate the infamously labyrinthian government bureaucracy, and gives other useful local tips.
+  - Spatial Cards: A card matching game with single or multi-player modes. Player matching uses [GameKit](https://developer.apple.com/documentation/gamekit).  
 
 I also [published an article](https://medium.com/@shinra.electric/creating-a-product-backlog-for-agile-681698e5564b) titled "Creating a Product Backlog for Agile"
 
