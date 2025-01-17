@@ -27,25 +27,21 @@ I was accepted and assigned as a developer to a project with an external client,
 Over the course of the year we started with the concept, did validation testing and made it to beta release. 
 At the end of the year the project was considered "complete" for the Pier Program, and was handed over to the Academy Alumni Board for futher development. 
 
-# iOS Apps
+# Personal iOS Apps
 
-<details>
-  <summary>iOS Apps</summary>
-  
+These are iOS apps that I have created myself:
+
 - [Sajeon Dictionary](https://github.com/shinra-electric/Sajeon): A Korean->English dictionary
 - [searchOS](https://github.com/shinra-electric/searchOS): Provides information about all macOS releases
-</details>
 
 # Scripts
-I started writing scripts just to save time when compiling various projects.<br>
-They are mostly zsh/bash scripts.
-
-<details>
-  <summary>Scripts</summary>
+I started writing zsh scripts just to save time when compiling various projects.<br>
+The majority of them are for compiling native builds of games where the source code is available online. 
+The scripts will create a signed macOS app bundle along with an appropriate icon.
   
 - [Build scripts for macOS](https://github.com/shinra-electric/Build-scripts)
 - [Format Conversion Scripts](https://github.com/shinra-electric/Conversion-Scripts)
-</details>
+
 
 # Metal
 I have started learning about the Metal graphics API by following the tutorials in the [Metal by Tutorials](https://www.kodeco.com/books/metal-by-tutorials/v4.0) book by Kodeco (4th Edition)
@@ -55,8 +51,4 @@ I have started learning about the Metal graphics API by following the tutorials 
 # Algorithms
 Various practice algorithms in Swift including HackerRank.
 
-<details>
-  <summary>Algorithms</summary>
-  
 - [HackerRank](https://github.com/shinra-electric/HackerRank)
-</details>
