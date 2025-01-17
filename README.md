@@ -47,6 +47,11 @@ They are mostly zsh/bash scripts.
 - [Format Conversion Scripts](https://github.com/shinra-electric/Conversion-Scripts)
 </details>
 
+# Metal
+I have started learning about the Metal graphics API by following the tutorials in the [Metal by Tutorials](https://www.kodeco.com/books/metal-by-tutorials/v4.0) book by Kodeco (4th Edition)
+
+- [Metal tutorial repository](https://github.com/shinra-electric/Metal-by-Tutorials)
+
 # Algorithms
 Various practice algorithms in Swift including HackerRank.
 
