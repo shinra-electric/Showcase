@@ -8,7 +8,7 @@ I haven't transferred everything yet, and I will be adding more things over time
 ### Year 1: iOS
 
 At the Apple Developer Academy I worked on many iOS apps in the first year. Most of these I co-developed with other students on teams of between 4 to 6 people. 
-As the ownership of these apps is split between many people, these usually don't make it to the App Store. 
+As the ownership of these apps is split between many people, they usually don't make it to the App Store. 
 
 I worked on the following iOS apps:
 
