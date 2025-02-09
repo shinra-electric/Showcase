@@ -1,5 +1,5 @@
 # Showcase
-This is a draft of a showcase to replace my old outdated portfolio repo. <br>
+This is a draft of a showcase to replace my old outdated [portfolio](https://github.com/shinra-electric/Portfolio) repo. <br>
 Rather than containing everything in the repo itself, it will just point to different repos. <br>
 I haven't transferred everything yet, and I will be adding more things over time.
 
