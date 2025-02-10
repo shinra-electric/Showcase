@@ -26,6 +26,7 @@ Normally the Apple Developer Academy is one year in duration. But a few promisin
 I was accepted and assigned as a developer to a project with an external client, and worked on a macOS social networking app using the Agile management processes. 
 Over the course of the year we started with the concept, did validation testing and made it to beta release. 
 At the end of the year the project was considered "complete" for the Pier Program, and was handed over to the Academy Alumni Board for futher development. 
+- [**Seven Seas**](https://github.com/shinra-electric/Seven-Seas-Intro)
 
 # Personal iOS Apps
 
