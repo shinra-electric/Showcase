@@ -20,12 +20,11 @@ I worked on the following iOS apps:
 
 I also [published an article](https://medium.com/@shinra.electric/creating-a-product-backlog-for-agile-681698e5564b) titled "Creating a Product Backlog for Agile"
 
-### Year 2: macOS
+### Year 2: macOS/iPadOS
 
-Normally the Apple Developer Academy is one year in duration. But a few promising students can be accepted into a post-graduate "Pier Program" that is similar to a work experience program. 
-I was accepted and assigned as a developer to a project with an external client, and worked on a macOS social networking app using the Agile management processes. 
+In the post-graduate "Pier Program" at the Academy I was assigned as a developer to a project with an external client, and worked on a macOS social networking app using the Agile management processes. 
 Over the course of the year we started with the concept, did validation testing and made it to beta release. 
-At the end of the year the project was considered "complete" for the Pier Program, and was handed over to the Academy Alumni Board for futher development. 
+At the end of the year the project was considered "complete" was handed over to the Academy Alumni Board for futher development. 
 - [**Seven Seas**](https://github.com/shinra-electric/Seven-Seas-Intro)
 
 # Personal iOS Apps
